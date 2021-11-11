@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><?phpinclude "menucad.php";?><div >	<div style="height: 100vh; width: 100vw; background-repeat: no-repeat;    background-position: 50% 50%;    background-size: cover;	background-image: url(<?php echo base_url('img/bg-dashboard.png');?>);"></div></div></body></html>
